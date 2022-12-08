@@ -21,9 +21,9 @@ const CIPluginOpt = {
   //   token: "鉴权需要的token令牌",
   // },
   // 版本号
-  version: "1.0.0",
+  version: "1.0.1",
   // 版本发布描述
-  desc: "版本描述",
+  desc: "小版本",
 };
 
 const config = {
